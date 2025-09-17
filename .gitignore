@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual envs and environment files
+venv/
+.env
+.venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Optional: ignore outputs/ if you don't want to upload CSVs/models
+# outputs/
