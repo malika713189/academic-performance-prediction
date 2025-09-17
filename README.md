@@ -51,13 +51,7 @@ Student_Project/
 
 ## ✅ Conclusion
 
-* The model performs well with residuals centered around 0.
+* The model performs well with residuals centred around 0.
 * Previous SGPA, credits completed, and attendance are key predictors of CGPA.
 * The combination of Python + Power BI provides both analytical depth and interactive storytelling.
-
----
-
-## 📌 Author
-
-👤 Malika Shivarla  
-🔗 [GitHub](https://github.com/malika713189)
+* 
